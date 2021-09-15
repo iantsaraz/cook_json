@@ -209,6 +209,7 @@
     {
       "id": 2,
       "nom": "chef Luc",
+       "avatar": "https://static.vecteezy.com/ti/vecteur-libre/p1/364628-chef-avatar-illustration-gratuit-vectoriel.jpg",
       "cooking_tips": [
         {
           "id": 1,
